@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ringer Mode Notification</string>
+    <string name="vibration_mode">Vibration Mode</string>
+    <string name="silent_mode">Silent Mode</string>
+    <string name="normal_mode">Normal Mode</string>
+    <string name="notification_mode_channel">Current Mode</string>
+    <string name="activ">Activated</string>
+    <string name="info">The App constantly informs you about your device\'s current ringer mode via permanent notification.\n\nPlease note: If \"Do Not Disturb\" Mode is activated due to technical limitations on some devices \"Normal Mode\" will not be displayed.</string>
+    <string name="isabell_waas" translatable="false">Isabell Waas</string>
+    <string name="steven_solleder" translatable="false">Steven Solleder</string>
+    <string name="licences">Licences</string>
+    <string name="contact">Contact</string>
+    <string name="ok">Ok</string>
+    <string name="donate">Donate</string>
+    <string name="uppercased">Uppercased</string>
+    <string name="do_not_disturb_mode">Do Not Disturb Mode</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ringer Mode Notification</string>
+    <string name="vibration_mode">Vibrationsmodus</string>
+    <string name="silent_mode">Stummer Modus</string>
+    <string name="normal_mode">Normaler Modus</string>
+    <string name="notification_mode_channel">Aktueller Modus</string>
+    <string name="activ">Aktiviert</string>
+    <string name="info">Die App teilt Dir über eine dauerhafte Benachrichtigung stets mit, in welchem Klingelmodus sich Dein Gerät befindet.\n\nHinweis: Ist der \"Nicht Stören\"-Modus aktiviert, wird \"Normaler Modus\" aufgrund technischer Beschränkungen auf manchen Geräten nicht angezeigt.</string>
+    <string name="licences">Lizensen</string>
+    <string name="contact">Kontakt</string>
+    <string name="donate">Spenden</string>
+    <string name="ok">Ok</string>
+    <string name="uppercased">Großgeschrieben</string>
+    <string name="do_not_disturb_mode">Nicht Stören Modus</string>
+</resources>
