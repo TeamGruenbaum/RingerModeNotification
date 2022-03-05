@@ -16,6 +16,12 @@ The application is developed in Java 1.8. You need at least Android 7 (API level
 
 ## Testing
 The application was tested manually. There are still many bugs in the current version.
+<br><br>
+
+## Developers
+- [Steven Solleder](https://github.com/stevensolleder): Implementation in pair programming
+- [Isabell Waas](https://github.com/isabellwaas): Implementation in pair programming
+<br><br>
 
 ## Get in contact
 Feel free to get in contact and share your experience with **RingerModeNotification**. Bug reports are also very appreciated.
